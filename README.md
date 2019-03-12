@@ -30,19 +30,19 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Updated UI with Circle Image View and Color Scheme
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/improgo-josh/Twitter_App_Clone/blob/master/Twitter_Assignment.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/improgo-josh/Twitter_App_Clone/blob/master/Twitter_Assignment_2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I had difficulty trying to debug the user images. I also had trouble figuring out how to demonstrate that the user can sign in to Twitter using OAuth login for the GIF walkthrough.
+I had difficulty trying to debug the user images, but was able to debug it by using the `profile_image_url` key. I also had trouble figuring out how to demonstrate that the user can sign in to Twitter using OAuth login for the GIF walkthrough.
 
 ## Open-source libraries used
 
