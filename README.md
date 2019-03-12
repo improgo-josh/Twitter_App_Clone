@@ -36,13 +36,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/improgo-josh/Twitter_App_Clone/blob/master/Twitter_Assignment.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I had difficulty trying to debug the user images.
+I had difficulty trying to debug the user images. I also had trouble figuring out how to demonstrate that the user can sign in to Twitter using OAuth login for the GIF walkthrough.
 
 ## Open-source libraries used
 
